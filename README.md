@@ -1,1 +1,1 @@
-# templates
+Date dimension template in Snowflake
